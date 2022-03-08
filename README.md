@@ -1,9 +1,9 @@
 # Waseda-DH
 A repository for Waseda University Digital Humanities projects.
 
-##Japanese Beauty 
+## Japanese Beauty 
 To cite:
 
-##Reddit content moderation
+## Reddit content moderation
 By Elissa Nakajima-Wickham
 To cite:
